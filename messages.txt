@@ -1,0 +1,4 @@
+testas::du testai
+labas::laba diena
+kaip sekasi?::gerai
+ka veiki?::vakarieniauju
